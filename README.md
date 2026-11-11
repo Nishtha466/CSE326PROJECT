@@ -18,8 +18,8 @@ CampusCare is a static college-campus issue-reporting interface. Students can de
 
 ```text
 .
-├── index.html   # Page content, navigation, reporting form, and accessible labels
-├── styles.css   # Layout, colors, and visual styles
+├── indexx.html   # Page content, navigation, reporting form, and accessible labels
+├── styless.css   # Layout, colors, and visual styles
 ├── app.js       # Form handling and browser-local report storage
 └── README.md    # Project and setup documentation
 ```
